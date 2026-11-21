@@ -1,0 +1,13 @@
+name: "QuickBooks Online"
+description: "Leading cloud accounting and invoicing platform for small businesses. Offers customizable invoices, automatic payment reminders, expense tracking, and extensive app ecosystem. Subscription-based with multiple tiers."
+source_url: "https://quickbooks.intuit.com/"
+category: "Invoicing Apps"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "accounting"
+  - "ecosystem"
+icon_url: "https://icons.duckduckgo.com/ip3/quickbooks.intuit.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://quickbooks.intuit.com/>\n"
+updated_at: "2026-11-21 00:43"

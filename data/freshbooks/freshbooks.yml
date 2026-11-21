@@ -1,0 +1,13 @@
+name: "FreshBooks"
+description: "Cloud-based invoicing and accounting software designed for freelancers and small businesses. Offers automated invoicing, expense tracking, time tracking, and payment processing. Plans start with a 30-day free trial then paid subscriptions."
+source_url: "https://www.freshbooks.com/"
+category: "Invoicing Apps"
+tags:
+  - "freemium"
+  - "cloud"
+  - "api"
+  - "mobile-app"
+  - "accounting"
+icon_url: "https://icons.duckduckgo.com/ip3/www.freshbooks.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.freshbooks.com/>\n"
+updated_at: "2026-11-21 00:43"

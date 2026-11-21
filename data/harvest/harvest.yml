@@ -1,0 +1,13 @@
+name: "Harvest"
+description: "Time tracking and invoicing software for teams and freelancers. Integrates with project management tools and converts tracked time into invoices. Free for single user with limited projects; paid plans for teams."
+source_url: "https://www.getharvest.com/"
+category: "Freelancer Billing"
+tags:
+  - "freemium"
+  - "cloud"
+  - "api"
+  - "time-tracking"
+  - "integrations"
+icon_url: "https://icons.duckduckgo.com/ip3/www.getharvest.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.getharvest.com/>\n"
+updated_at: "2026-11-21 00:43"

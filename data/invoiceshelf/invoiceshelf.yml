@@ -1,0 +1,13 @@
+name: "InvoiceShelf"
+description: "Open-source, self-hosted invoicing software for small businesses and freelancers. Built with PHP and MySQL, offers invoices, quotes, clients, products, and reports. Free community edition."
+source_url: "https://invoiceshelf.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "php"
+  - "mysql"
+icon_url: "https://icons.duckduckgo.com/ip3/invoiceshelf.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://invoiceshelf.com/>\n- Repository: <https://github.com/InvoiceShelf/InvoiceShelf>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 00:43"

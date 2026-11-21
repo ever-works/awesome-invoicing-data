@@ -1,0 +1,13 @@
+name: "Invoice Ninja"
+description: "Open-source invoicing platform for freelancers and small businesses with self-hosted and cloud options. Features invoicing, payments, expenses, time tracking, and client portals. Free community edition with paid hosted plans."
+source_url: "https://invoiceninja.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "laravel"
+icon_url: "https://icons.duckduckgo.com/ip3/invoiceninja.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://invoiceninja.com/>\n- Repository: <https://github.com/invoiceninja/invoiceninja>\n\nLicense: AAGPL.\n"
+updated_at: "2026-11-21 00:43"

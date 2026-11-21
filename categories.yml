@@ -1,0 +1,12 @@
+- id: invoicing-apps
+  name: "Invoicing Apps"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: e-invoicing-compliance
+  name: "E-Invoicing Compliance"
+- id: freelancer-billing
+  name: "Freelancer Billing"
+- id: invoice-apis
+  name: "Invoice APIs"
+- id: estimates-and-quotes
+  name: "Estimates & Quotes"

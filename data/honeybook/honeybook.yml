@@ -1,0 +1,13 @@
+name: "HoneyBook"
+description: "Client management and invoicing platform for creative freelancers and small service businesses. Combines contracts, questionnaires, scheduling, payments, and invoicing in one workflow. Subscription-based pricing."
+source_url: "https://www.honeybook.com/"
+category: "Freelancer Billing"
+tags:
+  - "paid"
+  - "cloud"
+  - "freelancer"
+  - "crm"
+  - "creative"
+icon_url: "https://icons.duckduckgo.com/ip3/www.honeybook.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.honeybook.com/>\n"
+updated_at: "2026-11-21 00:43"

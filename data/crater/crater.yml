@@ -1,0 +1,13 @@
+name: "Crater"
+description: "Open-source invoicing application built with Laravel for freelancers and small businesses. Self-hosted with features for invoices, estimates, expenses, and reporting. Free to use with optional paid support."
+source_url: "https://craterapp.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "laravel"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/craterapp.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://craterapp.com/>\n- Repository: <https://github.com/bytefury/crater>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:43"

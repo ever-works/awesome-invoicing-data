@@ -1,0 +1,13 @@
+name: "Zoho Invoice"
+description: "Free invoicing software from Zoho for small businesses, free for up to 5 customers. Includes recurring invoices, payment gateways, expense tracking, and client portal. Paid plans unlock more customers and features."
+source_url: "https://www.zoho.com/invoice"
+category: "Invoicing Apps"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "cloud"
+  - "api"
+  - "zoho-ecosystem"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoho.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zoho.com/invoice>\n"
+updated_at: "2026-11-21 00:43"

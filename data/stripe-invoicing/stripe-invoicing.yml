@@ -1,0 +1,13 @@
+name: "Stripe Invoicing"
+description: "Programmable invoicing API and hosted invoice pages from Stripe. Enables developers to create, send, and manage invoices with automatic payment collection. Pay-as-you-go pricing per transaction."
+source_url: "https://stripe.com/invoicing"
+category: "Invoice APIs"
+tags:
+  - "api"
+  - "paid"
+  - "enterprise"
+  - "developer-first"
+  - "payments"
+icon_url: "https://icons.duckduckgo.com/ip3/stripe.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://stripe.com/invoicing>\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "PayPal Invoicing"
+description: "Free invoicing tool within PayPal for sending professional invoices and accepting payments via PayPal, card, or Venmo. Includes templates, recurring invoices, and tracking. No monthly fee; transaction fees apply."
+source_url: "https://www.paypal.com/invoice"
+category: "Invoicing Apps"
+tags:
+  - "free"
+  - "cloud"
+  - "api"
+  - "payments"
+  - "global"
+icon_url: "https://icons.duckduckgo.com/ip3/www.paypal.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.paypal.com/invoice>\n"
+updated_at: "2026-11-21 00:43"

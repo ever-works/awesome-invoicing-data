@@ -1,0 +1,13 @@
+name: "Chargebee"
+description: "Subscription billing and revenue management platform with robust invoicing API. Handles recurring billing, dunning, revenue recognition, and integrations. Tiered pricing based on revenue volume."
+source_url: "https://www.chargebee.com/"
+category: "Invoice APIs"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "subscription-billing"
+  - "revenue-recognition"
+icon_url: "https://icons.duckduckgo.com/ip3/www.chargebee.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.chargebee.com/>\n"
+updated_at: "2026-11-21 00:43"

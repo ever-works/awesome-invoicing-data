@@ -1,0 +1,96 @@
+- id: freemium
+  name: "Freemium"
+- id: cloud
+  name: "Cloud"
+- id: api
+  name: "API"
+- id: mobile-app
+  name: "Mobile App"
+- id: accounting
+  name: "Accounting"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: laravel
+  name: "Laravel"
+- id: free-plan
+  name: "Free Plan"
+- id: zoho-ecosystem
+  name: "Zoho Ecosystem"
+- id: payments
+  name: "Payments"
+- id: free
+  name: "Free"
+- id: paid
+  name: "Paid"
+- id: freelancer
+  name: "Freelancer"
+- id: contracts
+  name: "Contracts"
+- id: tax
+  name: "Tax"
+- id: time-tracking
+  name: "Time Tracking"
+- id: integrations
+  name: "Integrations"
+- id: enterprise
+  name: "Enterprise"
+- id: developer-first
+  name: "Developer-First"
+- id: multi-currency
+  name: "Multi-Currency"
+- id: php
+  name: "PHP"
+- id: mysql
+  name: "MySQL"
+- id: symfony
+  name: "Symfony"
+- id: erp
+  name: "ERP"
+- id: peppol
+  name: "Peppol"
+- id: ubl
+  name: "UBL"
+- id: ecosystem
+  name: "Ecosystem"
+- id: pos-integration
+  name: "POS Integration"
+- id: global
+  name: "Global"
+- id: crm
+  name: "CRM"
+- id: creative
+  name: "Creative"
+- id: automation
+  name: "Automation"
+- id: frappe
+  name: "Frappe"
+- id: modular
+  name: "Modular"
+- id: codeigniter
+  name: "CodeIgniter"
+- id: tax-compliance
+  name: "Tax Compliance"
+- id: vat
+  name: "VAT"
+- id: gst
+  name: "GST"
+- id: ar-automation
+  name: "AR Automation"
+- id: collections
+  name: "Collections"
+- id: subscription-billing
+  name: "Subscription Billing"
+- id: revenue-recognition
+  name: "Revenue Recognition"
+- id: merchant-of-record
+  name: "Merchant of Record"
+- id: saas
+  name: "SaaS"
+- id: estimates
+  name: "Estimates"
+- id: mtd
+  name: "MTD"
+- id: uk
+  name: "UK"

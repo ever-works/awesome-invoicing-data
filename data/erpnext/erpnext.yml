@@ -1,0 +1,13 @@
+name: "ERPNext"
+description: "Full-featured open-source ERP with invoicing, accounting, inventory, CRM, and HR. Self-hosted or managed cloud (Frappe Cloud). Free community edition; enterprise support and hosting are paid."
+source_url: "https://erpnext.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "erp"
+  - "frappe"
+icon_url: "https://icons.duckduckgo.com/ip3/erpnext.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://erpnext.com/>\n- Repository: <https://github.com/frappe/erpnext>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "Hiveage"
+description: "Online invoicing and billing platform for freelancers and small businesses. Offers invoices, estimates, recurring billing, time tracking, and expense management. Free plan for up to 5 clients; paid plans scale up."
+source_url: "https://www.hiveage.com/"
+category: "Invoicing Apps"
+tags:
+  - "freemium"
+  - "cloud"
+  - "api"
+  - "estimates"
+  - "time-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/www.hiveage.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.hiveage.com/>\n"
+updated_at: "2026-11-21 00:43"

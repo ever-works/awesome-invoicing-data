@@ -1,0 +1,13 @@
+name: "SolidInvoice"
+description: "Open-source invoicing application built on Symfony for freelancers and agencies. Self-hosted with multi-company support, recurring invoices, and PDF generation. Free to use with commercial support available."
+source_url: "https://solidinvoice.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "symfony"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/solidinvoice.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://solidinvoice.com/>\n- Repository: <https://github.com/solidinvoice/solidinvoice>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:43"

@@ -1,0 +1,13 @@
+name: "InvoicePlane"
+description: "Open-source, self-hosted invoicing application for freelancers and small businesses. Built with CodeIgniter, offers invoices, quotes, payments, clients, and reports. Free to download and use."
+source_url: "https://invoiceplane.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "codeigniter"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/invoiceplane.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://invoiceplane.com/>\n- Repository: <https://github.com/InvoicePlane/InvoicePlane>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:43"
