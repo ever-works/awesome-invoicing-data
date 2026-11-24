@@ -1,0 +1,13 @@
+name: "Weft"
+description: "Time tracker and invoicing app for freelancers who bill by the hour. Runs in the browser and works offline, with no account: data stays on the user's device. Typeset PDF invoices with a payment QR code, plus XRechnung and ZUGFeRD e-invoices. Tracking is free; invoicing is a one-time purchase."
+source_url: "https://wefthours.com/"
+category: "Freelancer Billing"
+tags:
+  - "freemium"
+  - "freelancer"
+  - "time-tracking"
+  - "multi-currency"
+  - "vat"
+icon_url: "https://icons.duckduckgo.com/ip3/wefthours.com.ico"
+markdown: "## Pricing\n\nFreemium. Time tracking is free; invoicing has a 30-day trial, then a one-time licence ($69 / \u20ac69) with 12 months of updates.\n\n## Links\n\n- Website: <https://wefthours.com/>\n- Demo with sample data, no sign-up: <https://wefthours.com/app/?demo=fresh>\n"
+updated_at: "2026-11-24 04:30"
